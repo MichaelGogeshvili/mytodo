@@ -1,0 +1,7 @@
+/package.json
+/composer.phar
+/vendor/
+/bower_components/
+/bower_components
+/node_modules
+composer.phar
